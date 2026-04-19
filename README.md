@@ -104,6 +104,17 @@ The app uses a **share-based system** instead of fixed time limits, allowing fle
 - REST API (Prayer Times)
 
 ---
+## 📸 Screenshots
+<img width="1080" height="2408" alt="Screenshot_20260419_152750" src="https://github.com/user-attachments/assets/0d16b8d1-ab1f-43e4-88fe-b7182a533a59" />
+<img width="1080" height="2408" alt="Screenshot_20260419_152807" src="https://github.com/user-attachments/assets/c68a3ae9-b41a-43a8-82de-765998b43821" />
+<img width="1080" height="2408" alt="Screenshot_20260419_152812" src="https://github.com/user-attachments/assets/d4d9fe79-ff7b-4e24-a20f-6bdcc73960cb" />
+<img width="1080" height="2408" alt="Screenshot_20260419_152820" src="https://github.com/user-attachments/assets/b36a4ead-a55a-4da3-879d-251542220205" />
+<img width="1080" height="2408" alt="Screenshot_20260419_152730" src="https://github.com/user-attachments/assets/d13d99e2-9a4d-43c8-a739-8dac0a027134" />
+<img width="1080" height="2408" alt="Screenshot_20260419_152744" src="https://github.com/user-attachments/assets/a20015bd-1ebe-4d60-865d-b832ccbbbec0" />
+
+---
+## 👤 Author
+- Ammar Fayed
 
 ## 🚀 Getting Started
 
@@ -114,7 +125,4 @@ flutter pub get
 flutter run
 
 
----
 
-## 👤 Author
-- Ammar Fayed

@@ -1,0 +1,289 @@
+{
+  "appTitle": "Fair Share",
+  "changeLanguage": "Change Language",
+  "changePassword": "Change Password",
+
+  "navGroups": "Groups",
+  "navUser": "User",
+  "navSchedule": "Schedule",
+
+  "groupsTitle": "Groups Management",
+  "groupsWarning": "⚠️ Each group should have unique days to avoid scheduling conflicts",
+  "groupsEmptyTitle": "No groups yet",
+  "groupsEmptySubtitle": "Create your first group to get started",
+  "groupsCreateButton": "Create New Group",
+  "groupsDeleteTitle": "Delete Group",
+  "groupsDeleteConfirm": "Are you sure you want to delete this group?",
+  "groupsCancel": "Cancel",
+  "groupsDelete": "Delete",
+  "groupsEditTooltip": "Edit Group",
+  "groupsDeleteTooltip": "Delete Group",
+
+  "groupInfoStartDate": "Start Date",
+  "groupInfoActiveDays": "Active Days",
+  "groupMembersTitle": "Members:",
+  "groupMembersEmpty": "No members yet",
+  "groupShares": "{shares} shares ({duration})",
+  "@groupShares": {
+    "placeholders": {
+      "shares": {},
+      "duration": {}
+    }
+  },
+  "groupTimeBlocksTitle": "Time Blocks:",
+  "groupTimeBlocksEmpty": "No time blocks",
+
+  "groupsMembers": "{count} members",
+  "@groupsMembers": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+
+  "dialogClose": "Close",
+
+  "dayMon": "Mon",
+  "dayTue": "Tue",
+  "dayWed": "Wed",
+  "dayThu": "Thu",
+  "dayFri": "Fri",
+  "daySat": "Sat",
+  "daySun": "Sun",
+
+  "prayerFajr": "Fajr",
+  "prayerDhuhr": "Dhuhr",
+  "prayerAsr": "Asr",
+  "prayerMaghrib": "Maghrib",
+  "prayerIsha": "Isha",
+
+  "lastUpdated": "Last updated: {time}",
+  "@lastUpdated": {
+    "placeholders": {
+      "time": {}
+    }
+  },
+  "lastUpdatedNever": "Last updated: Never",
+  "fajrTomorrow": "Fajr (Tomorrow)",
+
+  "durationHours": "{hours}h",
+  "@durationHours": {
+    "placeholders": {
+      "hours": {}
+    }
+  },
+  "durationMinutes": "{minutes}m",
+  "@durationMinutes": {
+    "placeholders": {
+      "minutes": {}
+    }
+  },
+  "durationSeconds": "{seconds}s",
+  "@durationSeconds": {
+    "placeholders": {
+      "seconds": {}
+    }
+  },
+
+  "loading": "Loading...",
+  "noData": "No data",
+  "pausedSuffix": "(Paused)",
+  "noUserSelected": "No user selected",
+
+  "sharesCountLabel": "{shares} shares",
+  "@sharesCountLabel": {
+    "placeholders": {
+      "shares": {}
+    }
+  },
+  "sharesInputLabel": "Shares (e.g., 1.0, 1.5, 2.0)",
+
+  "notActiveToday": "Not active today",
+  "activeSessionTitle": "⏰ Active Session",
+  "pausedWithBlock": "⏸️ Paused: {blockName}",
+  "@pausedWithBlock": {
+    "placeholders": {
+      "blockName": {}
+    }
+  },
+  "sessionWillStart": "Session will start automatically",
+  "sessionPaused": "Session paused",
+  "noActiveUserToday": "No active user scheduled for today",
+
+  "prayerTimesTitle": "🕌 Prayer Times",
+  "refreshTimesTooltip": "Refresh Times",
+  "usingCachedData": "📦 Using cached data",
+  "timerPausedForPrayer": "⏸️ Timer Paused for Prayer",
+  "noPrayerTimes": "No prayer times available",
+  "nextPrayer": "Next: {prayerName} at {time}",
+  "@nextPrayer": {
+    "placeholders": {
+      "prayerName": {},
+      "time": {}
+    }
+  },
+  "timerPausedWithBlock": "Timer paused: {blockName}",
+  "@timerPausedWithBlock": {
+    "placeholders": {
+      "blockName": {}
+    }
+  },
+  "timeBlockFallback": "Time Block",
+
+  "noGroupSelected": "No group selected",
+  "pausedBlockLabel": "⏸ {blockName}",
+  "@pausedBlockLabel": {
+    "placeholders": {
+      "blockName": {}
+    }
+  },
+  "timeAM": "AM",
+  "timePM": "PM",
+
+  "editGroupTitle": "Edit Group",
+  "createGroupTitle": "Create New Group",
+  "continueButton": "Continue",
+  "backButton": "Back",
+  "groupInfoStep": "Group Info",
+  "groupNameLabel": "Group Name",
+  "startDateLabel": "Start Date",
+  "startTimeLabel": "Start Time",
+  "addMembersStep": "Add Members",
+  "membersTitle": "Members:",
+
+  "timeBlocksStep": "Time Blocks",
+  "prayerTimesLoaded": "✅ Prayer times loaded automatically",
+  "usingCachedPrayerTimes": "⚠️ Using cached prayer times",
+  "timeBlocksSectionTitle": "Time Blocks (Prayer times auto-added):",
+  "addCustomTimeBlock": "Add Custom Time Block",
+
+  "activeDaysStep": "Active Days",
+  "selectActiveDays": "Select active days for this group:",
+  "reviewStep": "Review",
+
+  "daysConflictWarning": "⚠️ Days {days} are already assigned to other groups",
+  "@daysConflictWarning": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "dayUnavailableTooltip": "This day is already assigned to another group",
+
+  "reviewGroup": "Group: {groupName}",
+  "@reviewGroup": {
+    "placeholders": {
+      "groupName": {}
+    }
+  },
+  "reviewStartDate": "Start Date: {date}",
+  "@reviewStartDate": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "reviewActiveDays": "Active Days: {days}",
+  "@reviewActiveDays": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+
+  "timeAllocationSummary": "Time Allocation Summary:",
+  "totalShares": "• Total shares: {count}",
+  "@totalShares": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "totalDayTime": "• Total day time: {duration} (24 hours)",
+  "@totalDayTime": {
+    "placeholders": {
+      "duration": {}
+    }
+  },
+  "timeBlocksLabel": "• Time blocks: {duration}",
+  "@timeBlocksLabel": {
+    "placeholders": {
+      "duration": {}
+    }
+  },
+  "netAvailable": "• Net available: {duration}",
+  "@netAvailable": {
+    "placeholders": {
+      "duration": {}
+    }
+  },
+  "minutesPerShare": "• Minutes per share: {minutes} minutes",
+  "@minutesPerShare": {
+    "placeholders": {
+      "minutes": {}
+    }
+  },
+  "timeBlocksTitle": "Time Blocks:",
+  "pausesLabel": "(Pauses)",
+  "memberScheduleTitle": "Member Schedule:",
+  "noTimeAllocated": "- No time allocated",
+  "memberScheduleLine": "{name} ({shares} shares - {duration}):",
+  "@memberScheduleLine": {
+    "placeholders": {
+      "name": {},
+      "shares": {},
+      "duration": {}
+    }
+  },
+
+  "dayConflictTitle": "Day Conflict",
+  "dayConflictContent": "Some days are already assigned to other groups.\n\nAvailable days: {days}\n\nPlease select different days or edit existing groups.",
+  "@dayConflictContent": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "okButton": "OK",
+  "missingInfoTitle": "Missing Information",
+  "missingInfoContent": "Please enter a group name.",
+  "noMembersTitle": "No Members",
+  "noMembersContent": "Please add at least one member to the group.",
+  "memberNameLabel": "Member Name",
+  "addMemberButton": "Add Member",
+  "addCustomTimeBlockTitle": "Add Custom Time Block",
+  "blockNameLabel": "Block Name (e.g., Sleep, Study)",
+  "fromLabel": "From",
+  "toLabel": "To",
+  "pauseUserTimersLabel": "Pause User Timers",
+  "cancelButton": "Cancel",
+  "addButton": "Add",
+
+  "prayerLabel": "Prayer",
+  "hoursSuffix": "h",
+  "minutesSuffix": "m",
+    "@@locale": "en",
+  "starterTitle": "Welcome to Fair Share",
+  "starterInstructions": "Fair Share helps you divide time and responsibilities fairly among group members. Follow the schedule, track prayer times, and manage your group with ease.",
+  "continueLabel": "Continue",
+  
+  "setPasswordTitle": "Set a Password",
+  "passwordHint": "Password",
+  "confirmPasswordHint": "Confirm Password",
+  "passwordEmptyError": "Password cannot be empty",
+  "passwordMismatchError": "Passwords do not match",
+  "saveLabel": "Save",
+  
+  "enterPasswordTitle": "Enter Password",
+  "incorrectPassword": "Incorrect password",
+  "unlockLabel": "Unlock",
+  "passwordUpdated": "Password updated successfully",
+    "notificationTimerTitle": "Timer Running",
+  "notificationTimerRemaining": "{time} remaining",
+  "@notificationTimerRemaining": {
+    "description": "Shows the remaining time in the persistent timer notification",
+    "placeholders": {
+      "time": {
+        "type": "String",
+        "example": "01:23:45"
+      }
+    }
+  },
+  "notificationOneMinute": "1 minute remaining",
+  "notificationTimeUp": "Time is up!",
+  "notificationPaused": "Time is paused"
+}

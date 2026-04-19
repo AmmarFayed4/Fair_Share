@@ -1,0 +1,288 @@
+{
+  "appTitle": "فير شير",
+  "changeLanguage": "تغيير اللغة",
+  "changePassword": "تغيير كلمة المرور",
+
+  "navGroups": "المجموعات",
+  "navUser": "المستخدم",
+  "navSchedule": "الجدول",
+
+  "groupsTitle": "إدارة المجموعات",
+  "groupsWarning": "⚠️ يجب أن تحتوي كل مجموعة على أيام فريدة لتجنب تعارض الجداول",
+  "groupsEmptyTitle": "لا توجد مجموعات بعد",
+  "groupsEmptySubtitle": "أنشئ أول مجموعة للبدء",
+  "groupsCreateButton": "إنشاء مجموعة جديدة",
+  "groupsDeleteTitle": "حذف المجموعة",
+  "groupsDeleteConfirm": "هل أنت متأكد أنك تريد حذف هذه المجموعة؟",
+  "groupsCancel": "إلغاء",
+  "groupsDelete": "حذف",
+  "groupsEditTooltip": "تعديل المجموعة",
+  "groupsDeleteTooltip": "حذف المجموعة",
+
+  "groupInfoStartDate": "تاريخ البدء",
+  "groupInfoActiveDays": "أيام النشاط",
+  "groupMembersTitle": "الأعضاء:",
+  "groupMembersEmpty": "لا يوجد أعضاء بعد",
+  "groupShares": "{shares} حصة ({duration})",
+  "@groupShares": {
+    "placeholders": {
+      "shares": {},
+      "duration": {}
+    }
+  },
+  "groupTimeBlocksTitle": "فترات الوقت:",
+  "groupTimeBlocksEmpty": "لا توجد فترات وقت",
+
+  "groupsMembers": "{count} عضو",
+  "@groupsMembers": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+
+  "dialogClose": "إغلاق",
+
+  "dayMon": "الإثنين",
+  "dayTue": "الثلاثاء",
+  "dayWed": "الأربعاء",
+  "dayThu": "الخميس",
+  "dayFri": "الجمعة",
+  "daySat": "السبت",
+  "daySun": "الأحد",
+
+  "prayerFajr": "صلاة الفجر ",
+  "prayerDhuhr": "صلاة الظهر",
+  "prayerAsr": "صلاة العصر",
+  "prayerMaghrib": "صلاة المغرب",
+  "prayerIsha": "صلاة العشاء",
+
+  "lastUpdated": "آخر تحديث: {time}",
+  "@lastUpdated": {
+    "placeholders": {
+      "time": {}
+    }
+  },
+  "lastUpdatedNever": "آخر تحديث: لم يتم",
+  "fajrTomorrow": "الفجر (غداً)",
+
+  "durationHours": "{hours}س",
+  "@durationHours": {
+    "placeholders": {
+      "hours": {}
+    }
+  },
+  "durationMinutes": "{minutes}د",
+  "@durationMinutes": {
+    "placeholders": {
+      "minutes": {}
+    }
+  },
+  "durationSeconds": "{seconds}ث",
+  "@durationSeconds": {
+    "placeholders": {
+      "seconds": {}
+    }
+  },
+
+  "loading": "جارٍ التحميل...",
+  "noData": "لا توجد بيانات",
+  "pausedSuffix": "(متوقف مؤقتًا)",
+  "noUserSelected": "لم يتم اختيار مستخدم",
+
+  "sharesCountLabel": "{shares} حصة",
+  "@sharesCountLabel": {
+    "placeholders": {
+      "shares": {}
+    }
+  },
+  "sharesInputLabel": "الحصص (مثال: 1.0، 1.5، 2.0)",
+
+  "notActiveToday": "غير نشط اليوم",
+  "activeSessionTitle": "⏰ جلسة نشطة",
+  "pausedWithBlock": "⏸️ متوقف: {blockName}",
+  "@pausedWithBlock": {
+    "placeholders": {
+      "blockName": {}
+    }
+  },
+  "sessionWillStart": "ستبدأ الجلسة تلقائيًا",
+  "sessionPaused": "الجلسة متوقفة",
+  "noActiveUserToday": "لا يوجد مستخدم نشط مجدول لليوم",
+
+  "prayerTimesTitle": "🕌 أوقات الصلاة",
+  "refreshTimesTooltip": "تحديث الأوقات",
+  "usingCachedData": "📦 يتم استخدام البيانات المخزنة",
+  "timerPausedForPrayer": "⏸️ المؤقت متوقف للصلاة",
+  "noPrayerTimes": "لا توجد أوقات صلاة متاحة",
+  "nextPrayer": "التالي: {prayerName} في {time}",
+  "@nextPrayer": {
+    "placeholders": {
+      "prayerName": {},
+      "time": {}
+    }
+  },
+  "timerPausedWithBlock": "المؤقت متوقف: {blockName}",
+  "@timerPausedWithBlock": {
+    "placeholders": {
+      "blockName": {}
+    }
+  },
+  "timeBlockFallback": "فترة توقف زمنية",
+
+  "noGroupSelected": "لم يتم اختيار مجموعة",
+  "pausedBlockLabel": "⏸ {blockName}",
+  "@pausedBlockLabel": {
+    "placeholders": {
+      "blockName": {}
+    }
+  },
+  "timeAM": "ص",
+  "timePM": "م",
+
+  "editGroupTitle": "تعديل المجموعة",
+  "createGroupTitle": "إنشاء مجموعة جديدة",
+  "continueButton": "متابعة",
+  "backButton": "رجوع",
+  "groupInfoStep": "معلومات المجموعة",
+  "groupNameLabel": "اسم المجموعة",
+  "startDateLabel": "تاريخ البدء",
+  "startTimeLabel": "وقت البدء",
+  "addMembersStep": "إضافة أعضاء",
+  "membersTitle": "الأعضاء:",
+
+  "timeBlocksStep": "فترات توقف الوقت",
+  "prayerTimesLoaded": "✅ تم تحميل أوقات الصلاة تلقائيًا",
+  "usingCachedPrayerTimes": "⚠️ يتم استخدام أوقات الصلاة المخزنة",
+  "timeBlocksSectionTitle": "فترات توقف الوقت (أوقات الصلاة مضافة تلقائيًا):",
+  "addCustomTimeBlock": "إضافة فترة توقف وقت مخصصة",
+
+  "activeDaysStep": "أيام النشاط",
+  "selectActiveDays": "اختر أيام النشاط لهذه المجموعة:",
+  "reviewStep": "مراجعة",
+
+  "daysConflictWarning": "⚠️ الأيام {days} مخصصة بالفعل لمجموعات أخرى",
+  "@daysConflictWarning": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "dayUnavailableTooltip": "هذا اليوم مخصص بالفعل لمجموعة أخرى",
+
+  "reviewGroup": "المجموعة: {groupName}",
+  "@reviewGroup": {
+    "placeholders": {
+      "groupName": {}
+    }
+  },
+  "reviewStartDate": "تاريخ البدء: {date}",
+  "@reviewStartDate": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "reviewActiveDays": "أيام النشاط: {days}",
+  "@reviewActiveDays": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+
+  "timeAllocationSummary": "ملخص تخصيص الوقت:",
+  "totalShares": "• إجمالي الحصص: {count}",
+  "@totalShares": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "totalDayTime": "• إجمالي وقت اليوم: {duration} (24 ساعة)",
+  "@totalDayTime": {
+    "placeholders": {
+      "duration": {}
+    }
+  },
+  "timeBlocksLabel": "• فترات توقف الوقت: {duration}",
+  "@timeBlocksLabel": {
+    "placeholders": {
+      "duration": {}
+    }
+  },
+  "netAvailable": "• الوقت المتاح: {duration}",
+  "@netAvailable": {
+    "placeholders": {
+      "duration": {}
+    }
+  },
+  "minutesPerShare": "• الدقائق لكل حصة: {minutes} دقيقة",
+  "@minutesPerShare": {
+    "placeholders": {
+      "minutes": {}
+    }
+  },
+  "timeBlocksTitle": "فترات توقف الوقت:",
+  "pausesLabel": "(إيقاف مؤقت)",
+  "memberScheduleTitle": "جدول الأعضاء:",
+  "noTimeAllocated": "- لم يتم تخصيص وقت",
+  "memberScheduleLine": "{name} ({shares} حصص - {duration}):",
+  "@memberScheduleLine": {
+    "placeholders": {
+      "name": {},
+      "shares": {},
+      "duration": {}
+    }
+  },
+
+  "dayConflictTitle": "تعارض في الأيام",
+  "dayConflictContent": "بعض الأيام مخصصة بالفعل لمجموعات أخرى.\n\nالأيام المتاحة: {days}\n\nيرجى اختيار أيام مختلفة أو تعديل المجموعات الحالية.",
+  "@dayConflictContent": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "okButton": "حسناً",
+  "missingInfoTitle": "معلومات ناقصة",
+  "missingInfoContent": "يرجى إدخال اسم المجموعة.",
+  "noMembersTitle": "لا يوجد أعضاء",
+  "noMembersContent": "يرجى إضافة عضو واحد على الأقل إلى المجموعة.",
+  "memberNameLabel": "اسم العضو",
+  "addMemberButton": "إضافة عضو",
+  "addCustomTimeBlockTitle": "إضافة فترة وقت مخصصة",
+  "blockNameLabel": "اسم فترة التوقف (مثال: نوم، دراسة)",
+  "fromLabel": "من",
+  "toLabel": "إلى",
+  "pauseUserTimersLabel": "إيقاف مؤقت لمؤقتات المستخدم",
+  "cancelButton": "إلغاء",
+  "addButton": "إضافة",
+  "prayerLabel": "",
+  "hoursSuffix": "س",
+  "minutesSuffix": "د",
+    "@@locale": "ar",
+    "starterTitle": "مرحباً بك في فير شير",
+    "starterInstructions": "يساعدك فير شير على تقسيم الوقت والمسؤوليات بشكل عادل بين أعضاء المجموعة. اتباع الجدول، وتتبع أوقات الصلاة، وأدر مجموعتك بسهولة.",
+    "continueLabel": "متابعة",
+    
+    "setPasswordTitle": "تعيين كلمة المرور",
+  "passwordHint": "كلمة المرور",
+  "confirmPasswordHint": "تأكيد كلمة المرور",
+  "passwordEmptyError": "لا يمكن أن تكون كلمة المرور فارغة",
+  "passwordMismatchError": "كلمتا المرور غير متطابقتين",
+  "saveLabel": "حفظ",
+  
+  "enterPasswordTitle": "أدخل كلمة المرور",
+  "incorrectPassword": "كلمة المرور غير صحيحة",
+  "unlockLabel": "فتح",
+  "passwordUpdated": "تم تحديث كلمة المرور بنجاح",
+    "notificationTimerTitle": "المؤقت يعمل",
+  "notificationTimerRemaining": "متبقي {time}",
+  "@notificationTimerRemaining": {
+    "description": "عرض الوقت المتبقي في إشعار المؤقت الدائم",
+    "placeholders": {
+      "time": {
+        "type": "String",
+        "example": "٠١:٢٣:٤٥"
+      }
+    }
+  },
+  "notificationOneMinute": "متبقي دقيقة واحدة",
+  "notificationTimeUp": "انتهى الوقت!",
+  "notificationPaused": "الوقت متوقف مؤقتًا"
+}
